@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@500&family=Cormorant:wght@400;600&family=Fredoka+One&family=Paytone+One&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    background-image: url(https://color-hex.org/colors/f29089.png);
+    background-size: cover;
+}
+.one{
+    font-weight: bolder;
+    border-style: double; 
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: white;
+    background-color:#ff80bf
+    letter-spacing: 10px;
+    font-family: 'Cormorant SC', serif;
+    font-size: 28px;
+    background-color: #7BCCAC;
+    padding: 12px;
+    margin: 20px;
+    text-align: center;
+    
+
+}
+.one li{
+    display: inline;
+    padding-inline: 150px;
+}
+
+.one a{
+    color: azure;
+    text-decoration: none;
+}
+
+.two{
+    text-align: center;
+    font-family: 'Paytone One', sans-serif;
+    color: azure;
+}
+
+.navbar2{
+    font-weight: bolder;
+    border-style: double; 
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: white;
+    background-color:black;
+    letter-spacing: 10px;
+    color: white;
+    font-family: 'Cormorant SC', serif;
+
+}
+.three{
+    background-color: white;
+    text-align: center;
+    border-width: 5px;
+    border-radius: 10px;
+    margin: 0px 800px;
+    font-family: 'Paytone One', sans-serif;
+}
+.four{
+    text-align: center;
+}
+.content{
+    text-align: center;
+    margin: 0px 550px;
+}
+.ความสนใจ{
+    text-align: center;
+    margin: 0px 550px;
+}
