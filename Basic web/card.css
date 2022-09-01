@@ -1,3 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Chakra+Petch:wght@600;700&family=Kanit:wght@200;300&family=Mitr&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Chakra+Petch:wght@600;700&family=Kanit:wght@200;300&family=Mitr:wght@200;300;400&family=Taviraj:wght@200;400;600&display=swap');
+.box{
+    display: inline;
+    padding-left: 50px;
+}
 .card{
     text-align: center;
+}
+.card2{
+    text-align: center;
+}
+.box a {
+    text-decoration: none;
+}
+.card1{
+    border-radius: 20px;
+    border:solid 2.5px;
+    border-color: #A4A4A4;
+}
+.content_heading{
+    text-align: center;
+    color: white;
+    font-family: 'Taviraj', serif;
+    font-weight: bolder;
+    }
+.figure
+{
+overflow: visible;
+}
+.figure img
+{
+transition: .2s;
+}
+.box:hover .figure img
+{
+transform: scale(90%);
 }
