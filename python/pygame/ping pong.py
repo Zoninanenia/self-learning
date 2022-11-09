@@ -1,5 +1,6 @@
 # pygame project 1
 # pingpong
+# self-learn from youtube in vscode
 
 
 import turtle
