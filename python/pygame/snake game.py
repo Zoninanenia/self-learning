@@ -1,5 +1,6 @@
-#pygame project 2
-#self-learn from youtube in vscode
+# pygame project 2
+# snake game 🐍
+# self-learn from youtube in vscode
 
 import pygame
 import sys
